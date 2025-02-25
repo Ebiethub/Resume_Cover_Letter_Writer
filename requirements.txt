@@ -4,9 +4,6 @@ langchain_core
 pdfkit
 tempfile
 json 
-os
-base64
-datetime 
+base64 
 docx 
 dotenv 
-re
