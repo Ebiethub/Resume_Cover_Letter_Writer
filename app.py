@@ -28,7 +28,7 @@ WKHTMLTOPDF_PATH = r'C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe'
 config = pdfkit.configuration(wkhtmltopdf=WKHTMLTOPDF_PATH) if os.path.exists(WKHTMLTOPDF_PATH) else None
 
 # Configuration
-GROQ_API_KEY = "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"
+GROQ_API_KEY = st.secrets["GROQ_API_KEY"]
 LANGUAGES = ["English", "Spanish", "French", "German", "Chinese"]
 TEMPLATE_OPTIONS = ["Chronological", "Functional", "Combined"]
 
