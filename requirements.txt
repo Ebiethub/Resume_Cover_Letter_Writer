@@ -3,4 +3,4 @@ langchain_groq
 langchain_core
 pdfkit
 dotenv 
-docx
+python-docx
