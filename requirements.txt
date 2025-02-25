@@ -2,7 +2,6 @@ streamlit
 langchain_groq 
 langchain_core
 pdfkit
-tempfile
 json 
 base64 
 docx 
