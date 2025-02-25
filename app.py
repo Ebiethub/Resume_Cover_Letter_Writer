@@ -8,9 +8,12 @@ import json
 import os
 import base64
 from datetime import datetime
+import docx
 from docx import Document
 from dotenv import load_dotenv
 import re
+
+
 
 
 # Set page config FIRST
