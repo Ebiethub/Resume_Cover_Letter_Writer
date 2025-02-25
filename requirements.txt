@@ -1,0 +1,12 @@
+streamlit 
+langchain_groq 
+langchain_core
+pdfkit
+tempfile
+json 
+os
+base64
+datetime 
+docx 
+dotenv 
+re
