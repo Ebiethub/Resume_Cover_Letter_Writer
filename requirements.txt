@@ -2,6 +2,5 @@ streamlit
 langchain_groq 
 langchain_core
 pdfkit
-base64 
 docx 
 dotenv 
